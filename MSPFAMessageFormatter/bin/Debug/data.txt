@@ -1,0 +1,27 @@
+[handle]=BB
+[font]=Times New Roman
+[color]=45809e
+
+[handle]=SD
+[font]=Bodoni MT
+[color]=ef23a3
+
+[handle]=OA
+[font]=Comic Sans MS
+[color]=ccc319
+
+[handle]=NA
+[font]=Century Gothic
+[color]=000001
+
+[handle]=QE
+[color]=0021cb
+
+[handle]=UT
+[color]=99004D
+
+[handle]=GW
+[color]=078446
+
+[handle]=CH
+[color]=0021cb

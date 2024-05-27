@@ -1,0 +1,4 @@
+1) set up the data.txt file: each character needs a [handle] line, and then can optionally have a [font] and [color] line after those to set those values;
+(the data file is read from top to bottom, so any [font] and [color] lines that are read after a [handle] will only affect that character until a new [handle] line is read)
+2) copy the text you want formatted into your clipboard (CTRL+C); all lines should be in the format "EG: dialogue text"
+3) run the program; if all goes well, it should spit out your formatted text

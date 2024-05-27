@@ -1,0 +1,11 @@
+D:\Github Repositories\MSPFAMessageFormatter\MSPFAMessageFormatter\bin\Debug\MSPFAMessageFormatter.exe.config
+D:\Github Repositories\MSPFAMessageFormatter\MSPFAMessageFormatter\bin\Debug\MSPFAMessageFormatter.exe
+D:\Github Repositories\MSPFAMessageFormatter\MSPFAMessageFormatter\bin\Debug\MSPFAMessageFormatter.pdb
+D:\Github Repositories\MSPFAMessageFormatter\MSPFAMessageFormatter\bin\Debug\MSPFAMessageFormatter.xml
+D:\Github Repositories\MSPFAMessageFormatter\MSPFAMessageFormatter\obj\Debug\MSPFAMessageFormatter.vbproj.AssemblyReference.cache
+D:\Github Repositories\MSPFAMessageFormatter\MSPFAMessageFormatter\obj\Debug\MSPFAMessageFormatter.Resources.resources
+D:\Github Repositories\MSPFAMessageFormatter\MSPFAMessageFormatter\obj\Debug\MSPFAMessageFormatter.vbproj.GenerateResource.cache
+D:\Github Repositories\MSPFAMessageFormatter\MSPFAMessageFormatter\obj\Debug\MSPFAMessageFormatter.vbproj.CoreCompileInputs.cache
+D:\Github Repositories\MSPFAMessageFormatter\MSPFAMessageFormatter\obj\Debug\MSPFAMessageFormatter.exe
+D:\Github Repositories\MSPFAMessageFormatter\MSPFAMessageFormatter\obj\Debug\MSPFAMessageFormatter.xml
+D:\Github Repositories\MSPFAMessageFormatter\MSPFAMessageFormatter\obj\Debug\MSPFAMessageFormatter.pdb
